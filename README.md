@@ -59,6 +59,8 @@ This project implements that structure with a valid/ready handshake on both side
  │             synchronous write on wclk, combinational read                │
  └──────────────────────────────────────────────────────────────────────────┘
 ```
+<img width="1562" height="676" alt="image" src="https://github.com/user-attachments/assets/6e451136-62a9-4a08-b927-f45208857878" />
+
 
 ## Module Descriptions
 
@@ -193,4 +195,3 @@ This is a simulation-verified design. It has **not** been through formal CDC sig
 **Joydeb Sarkar**
 Electronics and Communication Engineering, IIT Patna
 Focus: RTL design and digital verification
-<img width="1562" height="676" alt="image" src="https://github.com/user-attachments/assets/6e451136-62a9-4a08-b927-f45208857878" />
